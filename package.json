@@ -29,5 +29,12 @@
     "ts-jest": "^29.1.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
+  },
+  "optionalDependencies": {
+    "@img/sharp-linux-x64": "^0.33.0",
+    "@img/sharp-linux-arm": "^0.33.0",
+    "@img/sharp-linux-arm64": "^0.33.0",
+    "@img/sharp-darwin-x64": "^0.33.0",
+    "@img/sharp-darwin-arm64": "^0.33.0"
   }
 }
